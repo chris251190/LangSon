@@ -6,6 +6,8 @@
           <option value="es">Spanish</option>
           <option value="fr">French</option>
           <option value="zh">Chinese</option>
+          <option value="de">German</option>
+          <option value="jp">Japanese</option>
         </select>
         <input type="submit" value="Translate">
       </form>
